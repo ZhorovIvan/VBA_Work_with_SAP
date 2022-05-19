@@ -1,0 +1,47 @@
+2022-03-10 13:14:52: --------------------------------------
+2022-03-10 13:14:52: #Info# Stage: Starting work... 
+2022-03-10 13:14:52: #Info# Stage: Closing all workbooks. 
+2022-03-10 13:14:52: #Info# Stage: InitialisationSap successfully completed 
+2022-03-10 13:15:16: #Info# Stage: FBLSN  successfully completed 
+2022-03-10 13:15:17: #Info# Stage: ReadException successfully completed 
+2022-03-10 13:15:18: #Info# Stage: OpenSapBook successfully completed  
+2022-03-10 13:15:18: #Info# Stage: FB01  does not satisfy the condition -> 50500153
+2022-03-10 13:15:21: #Info# Stage: FB01  successfully completed -> 15551873
+2022-03-10 13:15:27: #Info# Stage: FB01  successfully completed -> 15551873
+2022-03-10 13:15:31: #Info# Stage: FB01  successfully completed -> 15551873
+2022-03-10 13:15:34: #Info# Stage: FB01  successfully completed -> 15551873
+2022-03-10 13:15:34: #Info# Stage: FB01  does not satisfy the condition -> 15309499
+2022-03-10 13:15:39: #Warn# Stage: FB01  successfully completed with SAP verification-> 15422333
+2022-03-10 13:15:45: #Info# Stage: FB01  successfully completed -> 15495046
+2022-03-10 13:15:53: #Info# Stage: FB01  successfully completed -> 15552161
+2022-03-10 13:15:59: #Info# Stage: FB01  successfully completed -> 15495172
+2022-03-10 13:16:07: #Warn# Stage: FB01  successfully completed with SAP verification-> 15490159
+2022-03-10 13:16:07: #Info# Stage: EndWorkWithBook successfully completed  
+2022-03-10 13:16:10: #Info# Stage: Closing all workbooks. 
+2022-03-10 13:16:10: #Info# Stage: Finishing work. 
+2022-03-10 13:16:52: --------------------------------------
+2022-03-10 13:16:52: #Info# Stage: Starting work... 
+2022-03-10 13:16:52: #Info# Stage: Closing all workbooks. 
+2022-03-10 13:16:52: #Info# Stage: InitialisationSap successfully completed 
+2022-03-10 13:17:18: #Info# Stage: FBLSN  successfully completed 
+2022-03-10 13:17:18: #Info# Stage: ReadException successfully completed 
+2022-03-10 13:17:19: #Info# Stage: OpenSapBook successfully completed  
+2022-03-10 13:17:23: #Info# Stage: FB01  successfully completed -> 15578127
+2022-03-10 13:17:23: #Info# Stage: FB01  does not satisfy the condition -> 50500153
+2022-03-10 13:17:23: #Info# Stage: FB01  does not satisfy the condition -> 50500153
+2022-03-10 13:17:23: #Info# Stage: FB01  does not satisfy the condition -> 50500153
+2022-03-10 13:17:23: #Info# Stage: FB01  does not satisfy the condition -> 15546976
+2022-03-10 13:17:28: #Info# Stage: FB01  successfully completed -> 15578556
+2022-03-10 13:17:28: #Info# Stage: FB01  does not satisfy the condition -> 50500009
+2022-03-10 13:17:32: #Info# Stage: FB01  successfully completed -> 50505025
+2022-03-10 13:17:37: #Info# Stage: FB01  successfully completed -> 15488846
+2022-03-10 13:17:41: #Info# Stage: FB01  successfully completed -> 15155131
+2022-03-10 13:17:44: #Info# Stage: FB01  successfully completed -> 15396121
+2022-03-10 13:17:48: #Info# Stage: FB01  successfully completed -> 15396121
+2022-03-10 13:17:53: #Info# Stage: FB01  successfully completed -> 15495172
+2022-03-10 13:17:53: #Info# Stage: FB01  does not satisfy the condition -> 50503569
+2022-03-10 13:17:53: #Info# Stage: FB01  does not satisfy the condition -> 50503878
+2022-03-10 13:17:59: #Info# Stage: FB01  successfully completed -> 15394463
+2022-03-10 13:17:59: #Info# Stage: EndWorkWithBook successfully completed  
+2022-03-10 13:18:01: #Info# Stage: Closing all workbooks. 
+2022-03-10 13:18:01: #Info# Stage: Finishing work. 
